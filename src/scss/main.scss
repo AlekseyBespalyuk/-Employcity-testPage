@@ -1,0 +1,15 @@
+// базовые подключения
+@import "fonts";
+@import "settings";
+
+// подключения компонентов страницы
+@import "./components/header";
+
+body {
+	font-family: 'Roboto-Regular';
+	color: #252525;
+}
+
+a {
+	color: #252525;
+}
